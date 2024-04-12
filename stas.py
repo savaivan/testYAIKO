@@ -1,1 +1,1 @@
-print("EDIN")
+print("STAAASSS")
